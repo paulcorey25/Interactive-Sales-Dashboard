@@ -3,7 +3,8 @@
 
 This Power BI dashboard visualizes synthetic sales data across regions, product categories, sales types, and distributors. It simulates a full-featured reporting solution used by business stakeholders to monitor performance, identify trends, and drill into sales performance by slicing data interactively.
 
-![Dashboard Preview](dashboard.png)
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/469459fa-44ea-455e-a34f-7efd6ed37156" />
+
 
 ---
 
